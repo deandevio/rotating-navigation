@@ -1,1 +1,1 @@
-# progress-steps
+# rotating navigation

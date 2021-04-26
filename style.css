@@ -8,3 +8,8 @@
 * {
     box-sizing: border-box;
 }
+
+body {
+    display: flex;
+    height: 100vh;
+}
